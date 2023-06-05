@@ -1,16 +1,19 @@
 Commit
 
-Es un comando local que permite guardar los cambios de tu repositorio local en el repositorio, con eso tambiÈn queda un ìhistorialî de estos cambios y  junto con el commit se suele poner una breve descripciÛn del cambio realizado.
+Es un comando local que permite guardar los cambios de tu repositorio local en el repositorio, con eso tambi√©n queda un ‚Äúhistorial‚Äù de estos cambios y  junto con el commit se suele poner una breve descripci√≥n del cambio realizado.
+git commit -m ‚ÄúInitial Commit‚Äù
 
 Fetch
 
-Es un comando que se utiliza para descargar los commit o cambios, que realizaron otros colaboradores en un proyecto en com˙n, del repositorio remoto al repositorio local. 
-todo esto sin modificar el documento que ya se tenÌa, de esta manera el usuario podr· comparar los cambios realizados en el proyecto con lo que ya se tenÌa, y podr· decidir que incluir y que no.
+Es un comando que se utiliza para descargar los commit o cambios, que realizaron otros colaboradores en un proyecto en com√∫n, del repositorio remoto al repositorio local. 
+todo esto sin modificar el documento que ya se ten√≠a, de esta manera el usuario podr√° comparar los cambios realizados en el proyecto con lo que ya se ten√≠a, y podr√° decidir que incluir y que no.
 
 Pull
 
-Este comando es similar al anterior (fetch) ya que tambiÈn es para descargar los cambios y actualizaciones que realizan otros colaboradores en el proyecto. Sin embargo, al momento de descargarlos este autom·ticamente  actualizar·, por asÌ decirlo, al documento que uno ya tenÌa.
+Este comando es similar al anterior (fetch) ya que tambi√©n es para descargar los cambios y actualizaciones que realizan otros colaboradores en el proyecto. Sin embargo, al momento de descargarlos este autom√°ticamente  actualizar√°, por as√≠ decirlo, al documento que uno ya ten√≠a.
+git pull origin master
 
 Push
 
 Es un comando que sirve para subir del repositorio local, los commit o cambios realizados, al repositorio remoto.
+git push origin master
