@@ -1,0 +1,16 @@
+Commit
+
+Es un comando local que permite guardar los cambios de tu repositorio local en el repositorio, con eso también queda un “historial” de estos cambios y  junto con el commit se suele poner una breve descripción del cambio realizado.
+
+Fetch
+
+Es un comando que se utiliza para descargar los commit o cambios, que realizaron otros colaboradores en un proyecto en común, del repositorio remoto al repositorio local. 
+todo esto sin modificar el documento que ya se tenía, de esta manera el usuario podrá comparar los cambios realizados en el proyecto con lo que ya se tenía, y podrá decidir que incluir y que no.
+
+Pull
+
+Este comando es similar al anterior (fetch) ya que también es para descargar los cambios y actualizaciones que realizan otros colaboradores en el proyecto. Sin embargo, al momento de descargarlos este automáticamente  actualizará, por así decirlo, al documento que uno ya tenía.
+
+Push
+
+Es un comando que sirve para subir del repositorio local, los commit o cambios realizados, al repositorio remoto.
