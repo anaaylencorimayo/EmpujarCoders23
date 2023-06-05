@@ -1,0 +1,3 @@
+Parte 3
+Para clonar el repositorio de la compañera, se necesito que me agregue como colaboradora. Al poder acceder a su repositorio, copie el link del mismo y en git usando git clone + el link del repositorio que deseo clonar, se crea una copia del mismo en mi dispositivo local.
+Al tener acceso a su repositorio pude agregar comentarios sobre el doc.txt de mi compañera, una vez hecho esto solo resto publicar los cambios.
